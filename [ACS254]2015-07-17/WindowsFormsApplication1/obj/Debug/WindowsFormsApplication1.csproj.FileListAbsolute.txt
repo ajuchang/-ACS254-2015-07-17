@@ -1,0 +1,8 @@
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
